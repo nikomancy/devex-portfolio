@@ -19,7 +19,7 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Streategy for your DevEx Journey',
+    title: 'Strategy for your DevEx Journey',
     Svg: require('@site/static/img/online-reading.svg').default,
     description: (
       <>
